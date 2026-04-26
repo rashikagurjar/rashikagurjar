@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- Full-name typing animation with title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Rashika%20Gurjar%20—%20Aspiring%20Full‑Stack%20Developer" alt="Rashika Gurjar — Aspiring Full-Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Rashika%20Gurjar%20—%20Aspiring%20Full‑Stack%20Developer" alt="   Rashika Singh Gurjar — Aspiring Full-Stack Developer" />
 </p>
 
 <p align="center">
